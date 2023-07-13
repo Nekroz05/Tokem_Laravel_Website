@@ -1,0 +1,19 @@
+.upper-about {
+    background-color: rgba(235, 235, 235, 0.931);
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+}
+
+.lower-about {
+    font-size: large;
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-info {
+    display: flex;
+    flex-direction: column;
+}

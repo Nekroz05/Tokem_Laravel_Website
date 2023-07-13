@@ -1,0 +1,7 @@
+DESCRIPTION : LINK
+
+Bootstrap : https://getbootstrap.com/
+
+home-backdrop : https://unsplash.com/photos/wsMwDxF8SKA
+plant-home 1 : https://unsplash.com/photos/DpphPG9ENsI
+plant-home 2 : https://unsplash.com/photos/hDyO6rr3kqk
